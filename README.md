@@ -7,7 +7,7 @@ Intialization steps:
 I have  Initailized LCD and RTC modules using the predefined steps in manual and we checked the  working of wifi module using the basic AT commands.
 
 
-Workig:
+Working:
 --------
 In my project  interfaced DHT11 using single wire bi-directional protocal,RTC using I2C,ESP8266 using UART protocols.
 
